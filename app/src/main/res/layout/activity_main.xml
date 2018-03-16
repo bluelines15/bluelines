@@ -17,7 +17,7 @@
 
     <EditText
         android:layout_width="match_parent"
-        android.text="dope nigga"
+        android:text="dope nigga"
         android:layout_height="match_parent" />
 
 </android.support.constraint.ConstraintLayout>
